@@ -1,3 +1,5 @@
+#!/bin/sh
+
 mkdir /tmp/geo
 mkdir /tmp/line
 rm -rf /data/mbtiles/*

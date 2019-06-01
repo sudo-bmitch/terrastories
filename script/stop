@@ -1,4 +1,5 @@
 #!/bin/sh
+
 docker-compose down
 
 echo "Cleaning old anonymous volumes"

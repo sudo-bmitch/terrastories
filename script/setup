@@ -1,3 +1,4 @@
-#!/bin/bash
+#!/bin/sh
+
 docker-compose build
 docker-compose run --rm --name build_the_tiles tilebuilder
